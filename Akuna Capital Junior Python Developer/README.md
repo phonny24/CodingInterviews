@@ -7,8 +7,6 @@
 - I am not giving out all the solution as other solutions were completely wrong.
 - The current solutions are partially correct. 
 
-
-
 ## MCQ 1 
 ----
 B-Trees are used commonly for:    
